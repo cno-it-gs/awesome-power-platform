@@ -3,6 +3,7 @@
 A curated list of awesome Power Platform resources.
 
 - [Overview of PowerApps](https://docs.microsoft.com/en-us/powerapps/powerapps-overview)
+- [Microsoft Power Platform adoption best practices](aka.ms/powerplatformadoption)
 - ["Fusion Development" overview from Microsoft](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-illustrated-guide-to-fusion-development/ba-p/2567146)
 - [An Illustrated Guide to Fusion Development](https://cloud-skills.dev/gallery/PowerApps-2-FusionDev.png)
 - [Governance](https://docs.microsoft.com/en-us/power-platform/admin/governance-considerations)
