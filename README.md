@@ -35,4 +35,3 @@ A curated list of awesome Power Platform resources.
 ## SQL Server 
 - [SQL Server And Business Intelligence](https://www.mssqltips.com/sqlservertutorial/3700/my-first-sql-server-business-intelligence-project-tutorial/)
 - [Star Schema](https://social.technet.microsoft.com/wiki/contents/articles/1238.star-schema.aspx#:~:text=In%20SQL%20Server%20Analysis%20Services%20%28SSAS%29%2C%20a%20star,represent%20those%20transactions%2C%20and%20dimensions%20describe%20the%20facts.)
-- 
