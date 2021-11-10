@@ -25,8 +25,12 @@ A curated list of awesome Power Platform resources.
 - [PowerBI Pricing](https://powerbi.microsoft.com/en-us/pricing/)
 - [Planning a PowerBI Enterprise Deployment (direct download PDF)](https://aka.ms/PBIEnterpriseDeploymentWP)
 - [FREE Microsoft Instructor Led Workshop - Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/)
+- [Power BI DAX](https://www.youtube.com/watch?v=pabn7kLxN6c&list=PLDz00l_jz6zym_YP8ZW11o52niGfCP8pN)
 
 ## Power Automate (aka Flow)
 - [You Tube Tutorials - Shane Young](https://www.youtube.com/channel/UC7_OGRP8BYvtGB8eZdPG6Ng)
 - [Power Automate Summary](https://docs.microsoft.com/en-us/power-automate/getting-started)
 - [Power Automate Pricing](https://powerautomate.microsoft.com/en-us/pricing)
+
+## SQL Server 
+- [SQL Server And Business Intelligence](https://www.mssqltips.com/sqlservertutorial/3700/my-first-sql-server-business-intelligence-project-tutorial/)
