@@ -15,6 +15,7 @@ A curated list of awesome Power Platform resources.
 - [Microsoft Learn Tutorials](https://docs.microsoft.com/en-us/learn/browse/?products=power-apps&WT.mc_id=webupdates_GEP_Powerapps-web-wwl%2F)
 - [PowerApps Pricing](https://powerapps.microsoft.com/en-us/pricing/)
 - [What is Microsoft Dataverse?](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro)
+- [If you have no process, this is a good place to start.](https://docs.microsoft.com/en-us/powerapps/guidance/planning/introduction)
 - [On-premises Data Gateway Overview](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/gateway-reference)
 - [On-premises Data Gateway Architecture](https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-onprem-indepth)
 - [Canvas Apps vs Model-driven Apps vs Portals](https://docs.microsoft.com/en-us/powerapps/maker/)
