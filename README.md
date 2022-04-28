@@ -2,6 +2,7 @@
 # Awesome Power Platform
 A curated list of awesome Power Platform resources.
 
+- [Summary of how CNO leverages some of these technologies](https://www.microsoft.com/en-us/federal/customer-stories/choctawnation.aspx)
 - [Overview of PowerApps](https://docs.microsoft.com/en-us/powerapps/powerapps-overview)
 - [Microsoft Power Platform adoption best practices](https://aka.ms/powerplatformadoption)
 - ["Fusion Development" overview from Microsoft](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-illustrated-guide-to-fusion-development/ba-p/2567146)
