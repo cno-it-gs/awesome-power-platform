@@ -13,6 +13,7 @@ A curated list of awesome Power Platform resources.
 ## Power Apps
 - [You Tube Tutorials - Reza Dorrani](https://www.youtube.com/c/RezaDorrani)
 - [You Tube Tutorials - Shane Young](https://www.youtube.com/channel/UC7_OGRP8BYvtGB8eZdPG6Ng)
+- [Blog by Matthew Devaney](https://www.matthewdevaney.com/)
 - [Microsoft Learn Tutorials](https://docs.microsoft.com/en-us/learn/browse/?products=power-apps&WT.mc_id=webupdates_GEP_Powerapps-web-wwl%2F)
 - [PowerApps Pricing](https://powerapps.microsoft.com/en-us/pricing/)
 - [What is Microsoft Dataverse?](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro)
