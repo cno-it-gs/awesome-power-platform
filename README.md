@@ -29,6 +29,7 @@ A curated list of awesome Power Platform resources.
 - [Planning a PowerBI Enterprise Deployment (direct download PDF)](https://aka.ms/PBIEnterpriseDeploymentWP)
 - [FREE Microsoft Instructor Led Workshop - Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/)
 - [Power BI DAX](https://www.youtube.com/watch?v=pabn7kLxN6c&list=PLDz00l_jz6zym_YP8ZW11o52niGfCP8pN)
+- [Good Training Workshops](https://github.com/microsoft/pbiworkshops)
 
 ## Power Automate (aka Flow)
 - [You Tube Tutorials - Shane Young](https://www.youtube.com/channel/UC7_OGRP8BYvtGB8eZdPG6Ng)
